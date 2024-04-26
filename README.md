@@ -84,26 +84,3 @@
 | shortId     | 6ba85179e30d4fc2                            |
 | spiderX     | /                                           |
 
-## 致谢
-
-[Xray-core][Xray-core]
-
-[REALITY][REALITY]
-
-[chika0801 Xray 配置文件模板][chika0801-Xray-examples]
-
-[部署 Cloudflare WARP Proxy][haoel]
-
-[cloudflare-warp 镜像][e7h4n]
-
-[WARP 一键脚本][fscarmen]
-
-**此脚本仅供交流学习使用，请勿使用此脚本行违法之事。网络非法外之地，行非法之事，必将接受法律制裁。**
-
-[Xray-core]: https://github.com/XTLS/Xray-core (THE NEXT FUTURE)
-[REALITY]: https://github.com/XTLS/REALITY (THE NEXT FUTURE)
-[chika0801-Xray-examples]: https://github.com/chika0801/Xray-examples (chika0801 Xray 配置文件模板)
-[haoel]: https://github.com/haoel/haoel.github.io#943-docker-%E4%BB%A3%E7%90%86 (使用 Docker 快速部署 Cloudflare WARP Proxy)
-[e7h4n]: https://github.com/e7h4n/cloudflare-warp (cloudflare-warp 镜像)
-[fscarmen]: https://github.com/fscarmen/warp (WARP 一键脚本)
-[fscarmen-warpproxy]: https://github.com/fscarmen/warp/blob/main/README.md#Netflix-%E5%88%86%E6%B5%81%E5%88%B0-WARP-Client-ProxyWireProxy-%E7%9A%84%E6%96%B9%E6%B3%95 (Netflix 分流到 WARP Client Proxy、WireProxy 的方法)
